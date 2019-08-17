@@ -5,6 +5,6 @@
 
 ## Description
 
-Cette application affiche la vitesse du CPU au démarrage . 
+Cette application affiche la vitesse du CPU au démarrage sur le terminal de du logiciel Arduino . 
 
 Après choix de la nouvelle fréquence, affiche celle-ci.
